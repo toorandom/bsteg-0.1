@@ -1,0 +1,22 @@
+/*
+bsteg 0.1 is a program to hide data into BMP (hehe i know bmp sucks , soon ill implement this
+with FFT to work in JPEG files , a lot of things arent verified , like the correct header
+in a BMP etc.. so , this is just a test
+
+Compiling:
+
+Just run compile.sh , if doesnt work , change "gcc" to your compiler (not tested with other compiler)
+
+This computer program CAN be copied without the permission of the creator just
+if you include this copyright notice in all the source files
+
+Running:
+
+Run ./bsteg and you will see the help
+
+Created by
+
+Eduardo Ruiz Duarte
+
+toorandom@gmail.com
+*/

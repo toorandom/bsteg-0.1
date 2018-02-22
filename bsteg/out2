@@ -1,0 +1,8 @@
+SYSTEM:*:18:544:,S-1-5-18::
+Administrators:*:544:544:,S-1-5-32-544::
+Administrator:unused_by_nt/2000/xp:500:513:U-BECK\Administrator,S-1-5-21-1482476501-1336601894-839522115-500:/home/Administrator:/bin/bash
+dirichlet:unused_by_nt/2000/xp:1004:513:U-BECK\dirichlet,S-1-5-21-1482476501-1336601894-839522115-1004:/home/dirichlet:/bin/bash
+Guest:unused_by_nt/2000/xp:501:513:U-BECK\Guest,S-1-5-21-1482476501-1336601894-839522115-501:/home/Guest:/bin/bash
+HelpAssistant:unused_by_nt/2000/xp:1000:513:Remote Desktop Help Assistant Account,U-BECK\HelpAssistant,S-1-5-21-1482476501-1336601894-839522115-1000:/home/HelpAssistant:/bin/bash
+SUPPORT_388945a0:unused_by_nt/2000/xp:1002:513:CN=Microsoft Corporation,L=Redmond,S=Washington,C=US,U-BECK\SUPPORT_388945a0,S-1-5-21-1482476501-1336601894-839522115-1002:/home/SUPPORT_388945a0:/bin/bash/bin/bash:513:Remote Desktop Help Assistant Account,U-BECK\HelpAssistant,S-1-5-21-1482476501-1336601894-839522115-1000:/home/HelpAssistant:/bin/bash
+SUPPORT_388945a0:unused_by_nt/2000/xp:1002:513:CN=Microsoft Corporation,L=Redmond,S=Washington,C=US,U-BECK\SUPPORT_388945a0,S-1-5-21-1482476501-1336601894-839522115-1002:/home/SUPPORT_388945a0:/bin/bash

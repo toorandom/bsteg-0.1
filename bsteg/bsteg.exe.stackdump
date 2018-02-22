@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004014D6
+eax=00001A78 ebx=00000002 ecx=00000000 edx=00460436 esi=00000000 edi=00001A7A
+ebp=00052BD4 esp=0022CBC0 program=C:\cygwin\home\dirichlet\puebla\bsteg-0.1\bsteg\bsteg.exe, pid 17904, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+      9 [main] bsteg 17904 _cygtls::handle_exceptions: Error while dumping state (probably corrupted stack)
